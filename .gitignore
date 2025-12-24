@@ -5,3 +5,6 @@
 # Python junk
 __pycache__/
 *.pyc
+
+qbo_auth_tokens.xlsx
+qbo_auth_tokens.csv
